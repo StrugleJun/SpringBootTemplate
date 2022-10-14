@@ -1,9 +1,4 @@
-<<<<<<< HEAD
 # 工程简介
+    SpringBoot + Thymeleaf + 通用Mapper + 通用Mapper逆向工程 + Swagger3  + Maven 工程模板！
 
 # 延伸阅读
-
-=======
-# SpringBootTemplate
-SpringBoot + Gradle  + Thymeleaf  Template
->>>>>>> c925f1bc6aed3943c7738463e6493cee257b711c
